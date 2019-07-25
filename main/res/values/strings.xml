@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">nightowl</string>
+    <string name="tip1">Select an item to view, modify or delete. To Add items, tap \' + \' icon on
+        the top right.</string>
+    <string name="tip2">Remember to tap the \' Save \' button below to save changes. To delete this
+        item, tap the trash icon on the top right.</string>
+    <string name="tip3">"Please fill out the form. Tap the \' Save \' button below to add this
+        item."</string>
+    <string name="terms">Terms</string>
+    <string name="courses">Courses</string>
+    <string name="assessments">Assessments</string>
+    <string name="term_details">Term Details</string>
+    <string name="ex_spring_term">ex. Spring Term</string>
+    <string name="title">Title</string>
+    <string name="mm_dd_yyyy">mm/dd/yyyy</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="assigned_courses">Assigned Courses</string>
+    <string name="ex_elaine_moran">ex. Elaine Moran</string>
+    <string name="program_mentor">Program Mentor</string>
+    <string name="ex_385_428_0000">ex. (385) 428-0000</string>
+    <string name="ex_elmrocks_wgu_edu">ex. elmrocks@wgu.edu</string>
+    <string name="save">Save</string>
+    <string name="course_details">Course Details</string>
+    <string name="ex_intro_to_humanities">ex. Intro to Humanities</string>
+    <string name="ex_in_progress">ex. In Progress</string>
+    <string name="status">Status</string>
+    <string name="alert">Alert</string>
+    <string name="notes">Notes</string>
+    <string name="mentor">Mentor</string>
+    <string name="ex_charles_xavier">ex. Charles Xavier</string>
+    <string name="ex_charles_xav_wgu_edu">ex. charles.xav@wgu.edu</string>
+    <string name="term">Term</string>
+    <string name="assessment_details">Assessment Details</string>
+    <string name="performance">Performance</string>
+    <string name="objective">Objective</string>
+    <string name="ex_mobile_app_development_abm1">ex. Mobile App Development - ABM1</string>
+    <string name="due_date">Due Date</string>
+    <string name="goal_date">Goal Date</string>
+    <string name="course">Course</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="notes_hint">ex. — Study more on literature. \n — Prepare for exams on Monday.
+    </string>
+</resources>
